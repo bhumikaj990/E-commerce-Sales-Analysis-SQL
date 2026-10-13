@@ -1,8 +1,6 @@
 # E-commerce-Sales-Analysis-SQL
 E-commerce Sales Analysis using MySQL to analyze revenue, product performance, customer spending, and sales trends.
 
-# E-commerce Sales Analysis Using SQL
-
 ## Project Overview
 
 This project analyzes e-commerce sales data using MySQL to identify sales trends, product performance, customer spending, and order status.
